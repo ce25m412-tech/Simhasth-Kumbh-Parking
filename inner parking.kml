@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mobility_planning__kumbh__inner_parking" id="mobility_planning__kumbh__inner_parking">
+	<SimpleField name="id" type="string"></SimpleField>
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>mobility_planning__kumbh__inner_parking</name>
+  <Placemark id="mobility_planning__kumbh__inner_parking.1">
+	<name>Parking near Dive Bungalow</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8184025629771,19.98521597689,0 73.818394493585,19.9851418534648,0 73.8181816130358,19.9851271404434,0 73.818116770838,19.983604033879,0 73.8177908392477,19.9835423170812,0 73.8179334552383,19.9830219089399,0 73.8191526070278,19.9828824480016,0 73.8190899793068,19.981117976821,0 73.8196976766082,19.9810840668158,0 73.8197389018431,19.9809987239682,0 73.8196724339342,19.9803334271001,0 73.8206388730661,19.9801897560403,0 73.8206736481418,19.9804189988895,0 73.8207965043546,19.9811976095337,0 73.8208977152548,19.9817876825895,0 73.8210671486554,19.9828678402063,0 73.821124369884,19.983247070379,0 73.8211830193491,19.9835647490042,0 73.8207797523784,19.9839070867538,0 73.8203962153461,19.984239772557,0 73.8200443799875,19.9845454151831,0 73.8195694812608,19.9849744144156,0 73.8192956839743,19.98523508247,0 73.8184025629771,19.98521597689,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.2">
+	<name>Pick-up area</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.7699417874749,20.0345492891372,0 73.7700448033081,20.0356567765005,0 73.7701202032065,20.0359092230782,0 73.7697779409849,20.0360333411022,0 73.7697957837803,20.036306793554,0 73.769794877141,20.0366429047259,0 73.7698146820068,20.0370911865427,0 73.7700935051871,20.0370380137748,0 73.7708143094547,20.0368365886141,0 73.7708739528991,20.036923155617,0 73.7711064941722,20.0375403920192,0 73.7692471244282,20.0378692071037,0 73.7689227184083,20.0378507874989,0 73.7684753544029,20.0375503063256,0 73.7683827704455,20.0371579071154,0 73.7683743855422,20.0365904883908,0 73.7683911654576,20.0361097591671,0 73.7684805024072,20.03484673226,0 73.7685303156349,20.0339072042736,0 73.7697739343856,20.033833842442,0 73.7699417874749,20.0345492891372,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.3">
+	<name>Mira Empire</name>
+	<description>6.86 ha</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.7366953185807,20.0388170453384,0 73.7399059676902,20.0385835774443,0 73.7399828552524,20.0394221332675,0 73.7399928003909,20.0399154619822,0 73.7394728905629,20.0399155637426,0 73.7394452715261,20.039718087004,0 73.739242230736,20.0397138836156,0 73.7392170653757,20.0399591685622,0 73.7387999656011,20.0399942587617,0 73.7388390037221,20.0404954362741,0 73.7386693703911,20.0405094332082,0 73.7384332080492,20.0408976559577,0 73.7379218197862,20.0408808828606,0 73.7374310953914,20.0407934656443,0 73.7365505516592,20.0406320466739,0 73.7366953185807,20.0388170453384,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.4">
+	<name>Madsangavi Shiwar S. No. 459</name>
+	<description>S. No. 459</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8639960283068,19.9996319348799,0 73.8640357357217,19.9990864393089,0 73.8644696839898,19.9990792468283,0 73.8644978084175,19.9987549824869,0 73.86402710262,19.9987120552703,0 73.8640665131865,19.9977794863279,0 73.8656841694869,19.9978522299764,0 73.8656611731087,19.998675295327,0 73.8658652259323,19.9987005482012,0 73.865708121976,19.9992338550071,0 73.8656333555562,19.9994280945313,0 73.8656595046818,19.9998381267302,0 73.8639960283068,19.9996319348799,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.5">
+	<name>APMC Market</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;Pune Road 1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Name_Road&lt;/td&gt;
+
+&lt;td&gt;Pune Road 1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Name&lt;/td&gt;
+
+&lt;td&gt;APMC Market&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Two_Wheeler&lt;/td&gt;
+
+&lt;td&gt;105&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Motor_Vehicle&lt;/td&gt;
+
+&lt;td&gt;136&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bus_Parking&lt;/td&gt;
+
+&lt;td&gt;122&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Nivara_Shed_20x25m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Stall_4x3m&lt;/td&gt;
+
+&lt;td&gt;10&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Clock_room_15x20m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bavik_Gram&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area&lt;/td&gt;
+
+&lt;td&gt;4.270192&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InOut&lt;/td&gt;
+
+&lt;td&gt;Out&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area_Acer&lt;/td&gt;
+
+&lt;td&gt;10.551873&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Picture&lt;/td&gt;
+
+&lt;td&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/1vMykJqL9WbJ-BurM_MHJ7MICV1nnsvSf/view?usp=drive_link&quot;&gt;https://drive.google.com/file/d/1vMykJqL9WbJ-BurM_MHJ7MICV1nnsvSf/view?usp=drive_link&lt;/a&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			&lt;/script&gt;&lt;/html&gt;</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="id">ID_00000</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.848945364,19.9515044350001,0 73.84844214,19.951443721,0 73.848349888,19.9514475770001,0 73.8483351620001,19.9513974940001,0 73.8482523750001,19.951115929,0 73.8478444630001,19.949964645,0 73.847842508,19.949952716,0 73.8478416610001,19.949940671,0 73.847841927,19.9499286020001,0 73.847843304,19.949916601,0 73.847845782,19.949904759,0 73.8478493420001,19.949893166,0 73.847853957,19.949881911,0 73.8478595920001,19.9498710790001,0 73.8478662040001,19.949860753,0 73.847873742,19.9498510110001,0 73.84788215,19.949841927,0 73.847891363,19.9498335710001,0 73.847901311,19.949826005,0 73.8479119190001,19.9498192890001,0 73.8479231050001,19.9498134720001,0 73.8479347850001,19.9498085990001,0 73.84794687,19.949804708,0 73.8479592670001,19.949801827,0 73.847970843,19.949800091,0 73.848205078,19.94973513,0 73.848441478,19.949677611,0 73.8485123190001,19.949662744,0 73.8485991540001,19.94964452,0 73.848657673,19.949632239,0 73.848679781,19.949627599,0 73.848919718,19.9495851500001,0 73.8491610230001,19.949550311,0 73.8494034240001,19.94952312,0 73.849571826,19.949509612,0 73.849646652,19.94950361,0 73.849890433,19.9494918,0 73.8501344960001,19.949487705,0 73.850141459,19.9494881850001,0 73.8501483520001,19.9494892380001,0 73.8501551210001,19.949490854,0 73.8501617160001,19.9494930230001,0 73.8501680860001,19.9494957260001,0 73.850174182,19.949498944,0 73.8501799590001,19.949502653,0 73.8501853710001,19.949506823,0 73.8501903790001,19.949511424,0 73.8501949440001,19.9495164200001,0 73.850199031,19.9495217730001,0 73.8502026090001,19.949527442,0 73.8502056500001,19.949533385,0 73.8502081330001,19.9495395550001,0 73.8502100370001,19.9495459070001,0 73.8502113480001,19.949552392,0 73.8502120570001,19.9495589600001,0 73.850212158,19.949565561,0 73.8502116500001,19.949572146,0 73.8502105370001,19.9495786640001,0 73.8502102290001,19.9495800120001,0 73.8500306290001,19.9506584540001,0 73.85001851,19.9507312260001,0 73.8499152620001,19.9513511960001,0 73.848945364,19.9515044350001,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.6">
+	<name>Plot opposite Madsangavi Shiwar S. No. 62</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.862961612616,20.0002822013138,0 73.8635375258704,20.0003141402041,0 73.8634938786262,20.0006914112756,0 73.8637506845683,20.0007276964778,0 73.8637550375481,20.0009105262276,0 73.8645607973313,20.0009484839486,0 73.8646653370229,19.9999376087904,0 73.8661594601322,20.0001665219594,0 73.8657616419261,20.0013507153811,0 73.8655396778858,20.0013601779222,0 73.8653223863306,20.0016032109342,0 73.8646176914042,20.0015457075102,0 73.8645827376805,20.0018602145321,0 73.8610781808886,20.0015842686044,0 73.8611611588866,20.00094702845,0 73.8622676384554,20.0010657594818,0 73.8623874466319,19.9997845166115,0 73.8629627032684,19.9997948702379,0 73.8629658530504,19.9998157504313,0 73.8629698076522,19.9998220438364,0 73.862961612616,20.0002822013138,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.7">
+	<name>NMC School</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;Gangapur Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Name_Road&lt;/td&gt;
+
+&lt;td&gt;Gangapur Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Name&lt;/td&gt;
+
+&lt;td&gt;NMC School&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Two_Wheeler&lt;/td&gt;
+
+&lt;td&gt;215&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Motor_Vehicle&lt;/td&gt;
+
+&lt;td&gt;58&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bus_Parking&lt;/td&gt;
+
+&lt;td&gt;44&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Nivara_Shed_20x25m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Stall_4x3m&lt;/td&gt;
+
+&lt;td&gt;5&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Clock_room_15x20m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bavik_Gram&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area&lt;/td&gt;
+
+&lt;td&gt;2.126577&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InOut&lt;/td&gt;
+
+&lt;td&gt;Out&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area_Acer&lt;/td&gt;
+
+&lt;td&gt;5.254886&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Picture&lt;/td&gt;
+
+&lt;td&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/11QQGx2BBI8oXkWksoUi2W9ZjZ75tH-Ku/view?usp=drive_link&quot;&gt;https://drive.google.com/file/d/11QQGx2BBI8oXkWksoUi2W9ZjZ75tH-Ku/view?usp=drive_link&lt;/a&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			&lt;/script&gt;&lt;/html&gt;</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="id">ID_00007</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.7198955750001,20.0276212150001,0 73.7198408470001,20.027946012,0 73.7198099140001,20.0281387480001,0 73.719671905,20.028639624,0 73.719449426,20.028653901,0 73.7193328320001,20.0286729370001,0 73.718935462,20.0291250340001,0 73.7184976410001,20.029636619,0 73.718390566,20.030004245,0 73.718234711,20.0300244710001,0 73.717658881,20.0296937260001,0 73.7180150870001,20.029175955,0 73.7177485870001,20.02905603,0 73.7178247300001,20.028656281,0 73.717845669,20.028532549,0 73.7178133080001,20.0282965060001,0 73.718104554,20.028336481,0 73.718348211,20.0284468880001,0 73.7188659820001,20.028568716,0 73.719311417,20.028456406,0 73.719855076,20.0276455330001,0 73.7198955750001,20.0276212150001,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.8">
+	<name>Additional area - NMC school</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.7181021358656,20.0283085396536,0 73.7181635923826,20.0279494358503,0 73.7181191695839,20.0276711005886,0 73.7189359901802,20.0268326898805,0 73.7196600692679,20.0261417960724,0 73.7198192269971,20.0265433971999,0 73.7199018349373,20.027043275992,0 73.7198776536281,20.0275268975318,0 73.7198211322732,20.0276338150161,0 73.719294597652,20.0284314485606,0 73.7188572425478,20.0285604006222,0 73.7183084073023,20.0284340178689,0 73.7181021358656,20.0283085396536,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.9">
+	<name>Plot adjacent to 60 M DP road land</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8422424851666,19.9392839654218,0 73.8433895491521,19.9386579835803,0 73.8434370779451,19.9388226221781,0 73.8450026626621,19.9431325280937,0 73.8424223083588,19.9433084490126,0 73.8422424851666,19.9392839654218,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.10">
+	<name>Plot near 60 M DP road part 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8451078786591,19.9432852055806,0 73.8459297146415,19.9460930738411,0 73.8458282011162,19.946232031895,0 73.8457157482558,19.9467989745354,0 73.8453878617184,19.9468067278492,0 73.8453711175707,19.9464627292776,0 73.8451558515781,19.9464702485244,0 73.8451146038382,19.9467602150508,0 73.8442459320883,19.9466601103966,0 73.843685533703,19.9467138705163,0 73.843388400967,19.9465230331257,0 73.8434484186441,19.9447656208226,0 73.8424946448475,19.9447655975444,0 73.8424369176462,19.9434892325691,0 73.8451078786591,19.9432852055806,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.11">
+	<name>Press Quarters, Nehru Nagar Part 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8239228096328,19.96768258756,0 73.8256043983855,19.9677363999377,0 73.8255565114655,19.968708327955,0 73.825078757326,19.9686892803664,0 73.8250661339838,19.9686919917439,0 73.8246007370335,19.9686973990485,0 73.8239388769156,19.9687164325351,0 73.8238814652709,19.9686729917521,0 73.8238777475078,19.9686060863987,0 73.8239228096328,19.96768258756,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.12">
+	<name>Press Quarters, Nehru Nagar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.8246410533979,19.9695011449742,0 73.8246020456703,19.9687631628181,0 73.827545831646,19.9686665955638,0 73.8287455299706,19.9686924348599,0 73.8288174483118,19.9685643855555,0 73.8299618270675,19.9686027377819,0 73.8308461145744,19.9685900452633,0 73.8307885907334,19.9692817890014,0 73.8281398960384,19.9692951706485,0 73.8257975417006,19.9695012446872,0 73.8246410533979,19.9695011449742,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.13">
+	<name>Idgaha Maidan</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;Trimbakeashwar Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Name_Road&lt;/td&gt;
+
+&lt;td&gt;Trimbakeashwar Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Name&lt;/td&gt;
+
+&lt;td&gt;Idgaha Maidan&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Two_Wheeler&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Motor_Vehicle&lt;/td&gt;
+
+&lt;td&gt;92&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bus_Parking&lt;/td&gt;
+
+&lt;td&gt;156&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Nivara_Shed_20x25m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Stall_4x3m&lt;/td&gt;
+
+&lt;td&gt;12&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Clock_room_15x20m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bavik_Gram&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area&lt;/td&gt;
+
+&lt;td&gt;3.282599&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InOut&lt;/td&gt;
+
+&lt;td&gt;IN&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area_Acer&lt;/td&gt;
+
+&lt;td&gt;8.111479&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Picture&lt;/td&gt;
+
+&lt;td&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/1TPI7CDRrIRAz8aLNu2KyC7CCZ-pRyZZk/view?usp=drive_link&quot;&gt;https://drive.google.com/file/d/1TPI7CDRrIRAz8aLNu2KyC7CCZ-pRyZZk/view?usp=drive_link&lt;/a&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			&lt;/script&gt;&lt;/html&gt;</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="id">ID_00006</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.7798886460001,19.996135517,0 73.7798623470001,19.9962995660001,0 73.779316097,19.99620329,0 73.779327116,19.9961517300001,0 73.778995368,19.996081314,0 73.7790263910001,19.9958950660001,0 73.7791381600001,19.995272621,0 73.77930523,19.9943651250001,0 73.7793306610001,19.9942154130001,0 73.7793683370001,19.994182978,0 73.7793791610001,19.9941751860001,0 73.77979702,19.9941265300001,0 73.779974155,19.9941492940001,0 73.7800954410001,19.9941696820001,0 73.7803122980001,19.99423023,0 73.7804619400001,19.9942827570001,0 73.78046664,19.9942866210001,0 73.780556743,19.99437693,0 73.7805615650001,19.994397215,0 73.7805937480001,19.99454738,0 73.78059804,19.9945679620001,0 73.780600625,19.994580355,0 73.7806582520001,19.994680429,0 73.780593707,19.994934578,0 73.7806085340001,19.9950681170001,0 73.7806203310001,19.995366485,0 73.7803883880001,19.9962615910001,0 73.7800894800001,19.9961627170001,0 73.7798886460001,19.996135517,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark id="mobility_planning__kumbh__inner_parking.14">
+	<name>Mahamarg Bus Stand</name>
+	<description>&lt;html xmlns:fo=&quot;http://www.w3.org/1999/XSL/Format&quot; xmlns:msxsl=&quot;urn:schemas-microsoft-com:xslt&quot;&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;&gt;
+
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+
+&lt;/head&gt;
+
+&lt;body style=&quot;margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;&quot;&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr style=&quot;text-align:center;font-weight:bold;background:#9CBCE2&quot;&gt;
+
+&lt;td&gt;Mumbai Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style=&quot;font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px&quot;&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Name_Road&lt;/td&gt;
+
+&lt;td&gt;Mumbai Road&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Name&lt;/td&gt;
+
+&lt;td&gt;Mahamarg Bus Stand&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Two_Wheeler&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Motor_Vehicle&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bus_Parking&lt;/td&gt;
+
+&lt;td&gt;107&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Nivara_Shed_20x25m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Stall_4x3m&lt;/td&gt;
+
+&lt;td&gt;6&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Clock_room_15x20m&lt;/td&gt;
+
+&lt;td&gt;1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Bavik_Gram&lt;/td&gt;
+
+&lt;td&gt;0&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area&lt;/td&gt;
+
+&lt;td&gt;1.697404&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InOut&lt;/td&gt;
+
+&lt;td&gt;IN&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor=&quot;#D4E4F3&quot;&gt;
+
+&lt;td&gt;Area_Acer&lt;/td&gt;
+
+&lt;td&gt;4.194377&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Picture&lt;/td&gt;
+
+&lt;td&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://drive.google.com/file/d/1fnR3midGTy9mGwtZdrr5LgXiPrTJFaoa/view?usp=drive_link&quot;&gt;https://drive.google.com/file/d/1fnR3midGTy9mGwtZdrr5LgXiPrTJFaoa/view?usp=drive_link&lt;/a&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;&lt;script type=&quot;text/javascript&quot;&gt;
+
+				function changeImage(attElement, nameElement) {
+
+				document.getElementById('imageAttachment').src = attElement;
+
+				document.getElementById('imageName').innerHTML = nameElement;}
+
+			&lt;/script&gt;&lt;/html&gt;</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#mobility_planning__kumbh__inner_parking">
+		<SimpleData name="id">ID_00005</SimpleData>
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>73.78229035,19.9869673900001,0 73.7822338340001,19.986424347,0 73.7822312550001,19.9861399980001,0 73.7822010090001,19.986003585,0 73.782177829,19.985907873,0 73.782088387,19.985818201,0 73.782071231,19.9858070220001,0 73.781992475,19.985734559,0 73.781975705,19.9857178770001,0 73.781994711,19.985612556,0 73.7821530400001,19.9855856660001,0 73.7825080220001,19.985854889,0 73.7826345730001,19.9859714610001,0 73.782616519,19.9860832140001,0 73.7829401920001,19.9863464850001,0 73.783116926,19.9865140800001,0 73.7831729980001,19.9867200520001,0 73.783264274,19.9868201250001,0 73.783391904,19.9869280980001,0 73.783482586,19.9871056210001,0 73.7835076060001,19.987405532,0 73.7829040110001,19.9874772470001,0 73.7823552,19.9875001140001,0 73.78229035,19.9869673900001,0</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
